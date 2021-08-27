@@ -4,7 +4,7 @@
   "description": "Una pagina de noticias dev.",
   "main": "main.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.html"
   },
   "repository": {
     "type": "git",
