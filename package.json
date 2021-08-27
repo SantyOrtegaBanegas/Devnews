@@ -1,0 +1,19 @@
+{
+  "name": "devnews",
+  "version": "1.0.0",
+  "description": "Una pagina de noticias dev.",
+  "main": "main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantyOrtegaBanegas/Devnews.git"
+  },
+  "author": "Santiago Ortega Banegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantyOrtegaBanegas/Devnews/issues"
+  },
+  "homepage": "https://github.com/SantyOrtegaBanegas/Devnews#readme"
+}
