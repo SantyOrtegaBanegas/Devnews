@@ -1,7 +1,7 @@
-# Listado de archivos y carpetas ignoradas.
+    # Listado de archivos y carpetas ignoradas.
 
-# Carpetas:
+    # Carpetas:
 
-node_modules
+    node_modules
 
-# Archivos:
+    # Archivos:
